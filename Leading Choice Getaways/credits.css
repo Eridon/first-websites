@@ -1,0 +1,12 @@
+/*The main characteristics of the webpage*/
+html {
+  font-size: 16px;
+  font-family: 'Bitter', serif;
+}
+section {
+  width: 100%;
+  display: flex;
+}
+body section:nth-child(even) {
+  background-color: white;
+}
