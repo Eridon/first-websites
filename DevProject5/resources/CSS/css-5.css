@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* HEADING */
+
+.header-main {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.subheading {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.subheading-2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+
+/* LINKS */
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/* Footer */
+
+.footer-logo {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
+
