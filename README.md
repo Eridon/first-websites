@@ -1,7 +1,5 @@
 # Beginner Web Projects
 
-A collection of my first websites, built to showcase my learning journey and evolution as a web developer.
-
 This repository contains a collection of my very first websites, built as part of my learning journey as a web developer. The purpose of this repository is to showcase my evolution and growth in web development, as well as provide insight into my thought process and development practices for others to learn from.
 
 # What's Included
