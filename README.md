@@ -17,7 +17,3 @@ The websites in this repository were built using HTML and CSS.
 # Contributions
 
 If you would like to contribute to this repository, feel free to submit a pull request or reach out to me directly. Any and all contributions are welcome!
-
-# License
-
-This repository is licensed under the MIT License. Feel free to use any of the code in this repository for your own projects.
